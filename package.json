@@ -1,0 +1,30 @@
+{
+    "name": "lean",
+    "version": "0.1.0",
+    "description": "A super simple and fast in-memory data store.  For when couch and other nosql solutions are more than you need.",
+    "homepage": "http://github.com/dylang/lean",
+    "author": "Dylan Greene <dylang@gmail.com>",
+    "contributors": [
+        "Dylan Greene <dylang@gmail.com>"
+    ],
+    "repository":
+    {
+        "type": "git",
+        "url": "http://github.com/dylang/lean"
+    },
+    "bugs":
+    {
+        "mail": "dylang@gmail.com",
+        "web": "http://github.com/dylang/lean/issues"
+    },
+    "dependencies":
+    {
+        "logging": ">= 2.0.0"
+    },
+    "main": "index.js",
+    "engines": { "node": ">=0.4.0" },
+    "licenses" :
+    [
+        { "type" : "MIT", "url" : "http://github.com/isaacs/npm/raw/master/LICENSE" }
+    ]
+}
