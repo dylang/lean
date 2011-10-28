@@ -1,6 +1,6 @@
 {
     "name": "lean",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A super simple and fast in-memory data store.  For when couch and other nosql solutions are more than you need.",
     "homepage": "http://github.com/dylang/lean",
     "author": "Dylan Greene <dylang@gmail.com>",
@@ -15,7 +15,7 @@
     "bugs":
     {
         "mail": "dylang@gmail.com",
-        "web": "http://github.com/dylang/lean/issues"
+        "url": "http://github.com/dylang/lean/issues"
     },
     "dependencies":
     {
